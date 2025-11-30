@@ -257,3 +257,7 @@ After creating a manager account, you can login using:
 ## License
 
 ISC
+<img width="1802" height="964" alt="Screenshot 2025-11-30 174722" src="https://github.com/user-attachments/assets/25fb9730-57a5-467f-a27f-11317724322a" />
+<img width="1794" height="915" alt="Screenshot 2025-11-30 174817" src="https://github.com/user-attachments/assets/4c5a928d-9061-4fe2-ae8c-d604431d36f7" />
+
+
